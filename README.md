@@ -1,3 +1,6 @@
+
+
+
 Converted text to md by https://euangoddard.github.io/clipboard2markdown/
 
 -   Wprowadzenie do DocumentAI
